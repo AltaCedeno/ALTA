@@ -15,6 +15,7 @@ Persistencia Local: Tus tareas se guardan en el localStorage del navegador (no s
 🛠️ Tecnologías Utilizadas
 HTML5: Estructura semántica.
 
-CSS: Estilos modernos, Flexbox y transiciones.
+CSS: Estilos modernos
+
 
 JavaScript: Manipulación del DOM y manejo de eventos.
